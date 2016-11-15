@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 
-#cover {
+.cover {
   height: 500px;
   position: relative;
   top: -55px;
@@ -111,11 +111,20 @@ a {
   padding: 10px 26px 10px 26px;
 }
 
+.posts {
+  background: #EEEFF1;
+  box-sizing: border-box;
+  width: 90%;
+  margin: 10px auto;
+  padding: 20px 0px;
+  text-align: center;
+}
+
 .products {
   background: #EEEFF1;
   box-sizing: border-box;
   width: 90%;
-  margin: 20px auto;
+  margin: 10px auto;
   padding: 20px 0px;
   text-align: center;
 }
@@ -125,12 +134,4 @@ a {
   margin: 0px 2% 80px 2%;
   text-align: center;
   width: 45%;
-}
-
-.product img {
-  width: 80%;
-}
-
-.blue {
-  color: #14213D !important
 }
