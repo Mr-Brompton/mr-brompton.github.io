@@ -1,32 +1,18 @@
 <?php
-$field_name = $_GET['cf_name'];
-$field_email = $_GET['cf_email'];
-$field_message = $_GET['cf_message'];
+if(isset($_POST["submit"])) {
+$recipient = "brentw.white@gmail.com"; //my email
+echo $subject = 'Email message from Point Plumbing';
+echo $name = $_POST ["yourName"];
+echo $email = $_POST["yourEmail"];
+echo $phone = $_POST["yourPhone"];
+echo $location = $_POST["yourLocate"];
+echo  $message = $_POST["yourMessage"];
 
-$mail_to = 'mr.brompton@mail.com';
-$subject = 'Message from a site visitor '.$field_name;
+ $mailBody="Name: $name\nEmail: $email\n\n$message"; 
 
-$body_message = 'From: '.$field_name."\n";
-$body_message .= 'E-mail: '.$field_email."\n";
-$body_message .= 'Message: '.$field_message;
+ mail($recipient, $subject, $mailBody, "From: $name <$email>");
 
-$headers = 'From: '.$field_email."\r\n";
-$headers .= 'Reply-To: '.$field_email."\r\n";
+echo $thankYou="<p>Thank you! We will be in contact with you shortly.</p>";
 
-$mail_status = mail($mail_to, $subject, $body_message, $headers);
-
-if ($mail_status) { ?>
-	<script language="javascript" type="text/javascript">
-		alert('Cheers! Speak soon :)');
-		window.location = 'http://mr-brompton.github.io';
-	</script>
-<?php
-}
-else { ?>
-	<script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to mr-brompton@mail.com');
-		window.location = 'contact_page.html';
-	</script>
-<?php
 }
 ?>
