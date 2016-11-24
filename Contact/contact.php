@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST["submit"])) {
-$recipient = "brentw.white@gmail.com"; //my email
+$recipient = "mr.bromptonmail.com"; //my email
 echo $subject = 'Email message from Point Plumbing';
 echo $name = $_POST ["yourName"];
 echo $email = $_POST["yourEmail"];
