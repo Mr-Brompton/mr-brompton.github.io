@@ -5,7 +5,7 @@ body {
 }
 
 #cover {
-  height: 900px;
+  height: 600px;
   position: relative;
   top: -55px;
   width: 100%;
@@ -128,7 +128,7 @@ a {
   width: 45%;
 }
 
-.product img {
+.blogs .blog img {
   width: 80%;
 }
 
