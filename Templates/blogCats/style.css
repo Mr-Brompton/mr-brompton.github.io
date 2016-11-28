@@ -1,49 +1,11 @@
-.content {
-	text-align: center;
-	width: 100%;
-	font-family: abel, sans-serif;
-}
-.content .contactForm {
-
-	display: inline-block;
-	text-align: center;
-	border-radius: 3px;
-	padding: 5px;
-
-}
-.content .contactForm form input {
-    width: 100%;
-    padding: 12px 10px;
-    margin: 8px 0;
-    box-sizing: border-box;
-	border: 1px solid black;
-    border-radius: 4px;
-	
-}
-.content .contactForm form textarea {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
 }
 
-.content .contactForm form input:focus {
-		border: 2px solid orange;
-}
-.content .contactForm form textarea:focus {
-		border: 2px solid orange;
-}
-.content .contactForm #btn {
-	color: orange;
-	border: 1px solid orange;
-}
-.content .contactForm #btn:hover {
-	color: black;
-	border: 1px solid black;
-}
-
-.cover {
-  height: 400px;
+#cover {
+  height: 600px;
   position: relative;
   top: -55px;
   width: 100%;
@@ -104,11 +66,12 @@ h1 {
 }
 
 h2 {
-  color: #000;
+  color: white;
   font-family: 'Raleway', sans-serif;
-  font-size: 42px;
+  font-size: 60px;
   font-weight: 300;
   text-align: center;
+  text-shadow: 10px 10px 10px black;
 }
 
 h3 {
@@ -149,4 +112,27 @@ a {
   padding: 10px 26px 10px 26px;
 }
 
+.blogs {
+  background: #EEEFF1;
+  box-sizing: border-box;
+  width: 90%;
+  margin: 20px auto;
+  padding: 20px 0px;
+  text-align: center;
+}
 
+.blog {
+  display: inline-block;
+  margin: 0px 2% 80px 2%;
+  text-align: center;
+  width: 45%;
+}
+
+.blogs .blog img {
+  width: 300px;
+  height: 300px;
+}
+
+.blue {
+  color: #14213D !important
+}
