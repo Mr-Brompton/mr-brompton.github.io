@@ -119,6 +119,19 @@ a {
   padding: 10px 26px 10px 26px;
 }
 
+.btn1 {
+  border-radius: 5%;
+  background-image: -webkit-linear-gradient(#FFD194, #BC1324);
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  padding: 10px 26px 10px 26px;
+  width: 40%;
+  display: inline-block;
+}
+.btn1 a {
+	color: #FFF;
+}
+
 .posts {
   background: #EEEFF1;
   box-sizing: border-box;
