@@ -27,3 +27,26 @@
 	color: black;
 	box-shadow: 1px 1px 3px black;
 }
+
+
+.btn1 {
+  border-radius: 5%;
+  background-image: -webkit-linear-gradient(#FFD194, #BC1324);
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  padding: 10px 26px 10px 26px;
+  width: 40%;
+  display: inline-block;
+}
+.btn1 a {
+	color: #FFF;
+}
+
+.btn1:hover {
+	color: black;
+	box-shadow: 1px 1px 3px black;
+}
+.btn1 a:hover {
+	color: black;
+	box-shadow: 1px 1px 3px black;
+}
