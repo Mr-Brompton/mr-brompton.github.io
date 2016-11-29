@@ -59,7 +59,7 @@ body {
 #quote ul {
 	padding: 0px;
 }
-li {
+.posts ul li {
 	color: #14213D;
 	font-family: 'Abel', sans-serif;
 	font-weight: 300;
