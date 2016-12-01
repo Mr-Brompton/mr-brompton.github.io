@@ -47,10 +47,13 @@ li {
 	text-transform: uppercase;
 	border-left: 4px;
 }
-.posts img {
+.posts #blogMainImage img {
 	float: left;
-  width: 500px;
-  height: 500px;
+    width: 50%;
+}
+
+.posts p img {
+	height: 2pc;
 }
 
 .products .btn:hover {
@@ -75,4 +78,14 @@ a .btn1 {
 .btn1:hover {
 	color: black;
 	box-shadow: 1px 1px 3px black;
+}
+
+
+.posts h3 a {
+  color: #142137; !important
+}
+
+.posts h3 a:hover {
+	color: white;
+	text-shadow: 1px 1px 3px black;
 }
