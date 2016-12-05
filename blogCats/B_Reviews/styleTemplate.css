@@ -39,6 +39,10 @@ li {
   padding: 20px 10%;
   text-align: center;
 }
+
+.posts h3 {
+	padding-top: 0px;
+}
 .posts li {
 	color: #14213D;
 	font-family: 'Abel', sans-serif;
@@ -49,11 +53,16 @@ li {
 }
 .posts #blogMainImage img {
 	float: left;
-    width: 50%;
+   
+}
+.posts #blogMainImage2 img {
+	float: right;
+   
 }
 
 .posts p img {
 	height: 2pc;
+	
 }
 
 .products .btn:hover {
@@ -83,6 +92,7 @@ a .btn1 {
 
 .posts h3 a {
   color: #142137; !important
+  padding-top: 0px;
 }
 
 .posts h3 a:hover {
