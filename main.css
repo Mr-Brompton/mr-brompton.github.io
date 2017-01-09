@@ -1,0 +1,46 @@
+	/*background*/
+
+body {
+  background-color: #666;
+  margin: 0;
+  padding: 0;
+}
+
+
+	/*navbar*/
+
+.navigation {
+  background-color: rgba(200, 200, 200, 0.9);
+  overflow-y: auto;
+  position: fixed;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 10000;
+  border-bottom: 1px solid black;
+}
+
+.navigation ul {
+  padding: 0;
+}
+
+.navigation li {
+  color: #14213D;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
+}
+
+#logo {
+  color: orange;
+  opacity: 0.9;
+  font-family: 'Amatic SC', cursive;
+  font-size: 32px;
+  padding: 0px 25px;
+  font-weight: bold;
+}
+
