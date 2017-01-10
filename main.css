@@ -1,3 +1,17 @@
+	/*coverImage*/
+
+#cover {
+	height: 500px;
+	position: relative;
+	top: -55px;
+	width: 100%;
+	background: url("img/background1.png") no-repeat top center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+/*Version 1 */
+
 	/*background*/
 
 body {
@@ -5,7 +19,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 
 	/*navbar*/
 
@@ -42,5 +55,16 @@ body {
   font-size: 32px;
   padding: 0px 25px;
   font-weight: bold;
+}
+
+
+	/*coverImage*/
+.cover-content {
+  box-sizing: border-box;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 280px;
+  width: 70%;
 }
 
