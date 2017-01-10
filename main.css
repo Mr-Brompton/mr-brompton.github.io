@@ -17,6 +17,8 @@
 	background: url("img/background2.png") no-repeat top center;
 	background-size: cover;
 	background-attachment: fixed;
+	-webkit-transition: background-image 0.2s ease-in-out;
+	transition: background-image 0.2s ease-in-out;
 }
 /*Version 1 */
 
