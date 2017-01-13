@@ -52,7 +52,6 @@
 	/*Page Formatting p, a, and h's*/
 .container {
 	width: 96%;
-	border-top: 1px solid black;
 	white-space: 1px;
 	margin: 1px;
 }	
@@ -71,9 +70,8 @@ h2 {
   color: orange;
   font-family: 'Raleway', sans-serif;
   font-size: 42px;
-  font-weight: bold;
+  font-weight: 300;
   text-align: center;
-  top: -40px;
 }
 
 h3 {
@@ -111,8 +109,19 @@ a {
 
 	/*coverImage*/
 
+	/*coverImage*/
+.cover-content {
+  box-sizing: border-box;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 200px;
+  width: 70%;
+}
+
+
 #cover {
-	height: 600px;
+	height: 550px;
 	position: relative;
 	top: -55px;
 	width: 100%;
@@ -121,7 +130,7 @@ a {
 	background-attachment: fixed;
 }
 #cover:hover {
-	height: 600px;
+	height: 550px;
 	position: relative;
 	top: -55px;
 	width: 100%;
@@ -177,16 +186,5 @@ body {
   font-size: 32px;
   padding: 0px 25px;
   font-weight: bold;
-}
-
-
-	/*coverImage*/
-.cover-content {
-  box-sizing: border-box;
-  margin: 0 auto;
-  position: relative;
-  text-align: center;
-  top: 280px;
-  width: 70%;
 }
 
