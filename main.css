@@ -27,8 +27,8 @@
 }
 
 .contentSuggestL img {
-  width: 350px;
-  height: 350px;
+  
+  height: 25%;
   float: left;
   margin-left: 3%;
 }
@@ -46,8 +46,7 @@
 }
 
 .contentSuggestR img {
-  width: 350px;
-  height: 350px;
+   height: 25%;
   float: right;
   margin-right: 3%;
 }
@@ -60,9 +59,6 @@
 
 
 	/*Page Formatting p, a, and h's*/
-.container {
-	width: 75%;
-}	
 
 h1 {
   color: #FFF;
