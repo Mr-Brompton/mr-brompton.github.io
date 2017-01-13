@@ -1,5 +1,23 @@
+	/*Buttons*/
+.btn {
+  border-radius: 5%;
+  background-image: -webkit-linear-gradient(#FFD194, #BC1324);
+  color: #FFF;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  padding: 10px 26px 10px 26px;
+}
+.btn:hover {
+	color: black;
+	box-shadow: 1px 1px 3px black;
+}
+
+
 	/*Content Styling */
 	
+.blue {
+  color: #14213D; 
+}
 
 .content {
   display: inline-block;
@@ -65,6 +83,7 @@ p {
 
 a {
   text-decoration: none;
+  color: black;
 }
 
 	/*coverImage*/
