@@ -30,12 +30,12 @@
   width: 350px;
   height: 350px;
   float: left;
-  margin-left: 10%;
+  margin-left: 3%;
 }
 .contentSuggestL #text {
 	float: left;
 	width: 50%;
-	margin-left: 10%;
+	margin-left: 3%;
 }
 
 .contentSuggestR {
@@ -49,12 +49,12 @@
   width: 350px;
   height: 350px;
   float: right;
-  margin-left: 10%;
+  margin-right: 3%;
 }
 .contentSuggestR #text {
 	float: right;
 	width: 50%;
-	margin-left: 10%;
+	margin-right: 3%;
 }
 
 
@@ -142,7 +142,8 @@ body {
   background-color: #666;
   margin: 0;
   padding: 0;
-}
+  width: 100%;
+  }
 
 	/*navbar*/
 
