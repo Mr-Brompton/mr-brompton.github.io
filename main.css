@@ -1,10 +1,8 @@
 	/*divider*/
-.div {
-	height: 50px;
+.content img {
+	height: 10px;
 	width: 33%;
 	left: 33%;
-	background-image: url("img/divider.png") no-repeat top center;
-	position: relative;
 }
 
 	/*coverImage*/
