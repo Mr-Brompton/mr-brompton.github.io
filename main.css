@@ -29,6 +29,11 @@
 .content img {
   width: 350px;
   height: 350px;
+  float: left;
+}
+.content #text {
+	float: right;
+	width: 500px;
 }
 
 
