@@ -58,8 +58,11 @@
 }
 
 
+
 	/*Page Formatting p, a, and h's*/
-	
+.container {
+	width: 99%;
+}	
 
 h1 {
   color: #FFF;
