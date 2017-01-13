@@ -19,53 +19,42 @@
   color: #14213D; 
 }
 
-.contentSuggestL {
+	/*Suggested page styling*/
+	
+.btn {
+  border-radius: 5%;
+  background-image: -webkit-linear-gradient(#FFD194, #BC1324);
+  color: #FFF;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  padding: 10px 26px 10px 26px;
+}
+.btn:hover {
+	color: black;
+	box-shadow: 1px 1px 3px black;
+}
+
+.pageSuggest {
   display: inline-block;
   margin: 0px 2% 80px 2%;
-  text-align: left;
-  width: 100%;
-  white-space: 2%;
+  text-align: center;
+  width: 45%;
 }
 
-.contentSuggestL img {
-  
-  height: 25%;
-  float: left;
-  margin-left: 3%;
-  white-space: 2%;
-}
-.contentSuggestL #text {
-	float: left;
-	width: 50%;
-	margin-left: 3%;
-	white-space: 2%;
+.pageSuggest img {
+  width: 300px;
+  height: 300px;
 }
 
-.contentSuggestR {
-  display: inline-block;
-  margin: 0px 2% 80px 2%;
-  text-align: right;
-  width: 100%;
-  white-space: 2%;
-}
-
-.contentSuggestR img {
-   height: 25%;
-  float: right;
-  margin-right: 3%;
-  white-space: 2%;
-}
-.contentSuggestR #text {
-	float: right;
-	width: 50%;
-	margin-right: 3%;
-	white-space: 2%;
-}
 
 
 
 	/*Page Formatting p, a, and h's*/
-
+.container {
+	width: 99%;
+	box-shadow: 1px 1px 1px black;
+}	
+	
 h1 {
   color: #FFF;
   font-family: 'Amatic SC', cursive;
