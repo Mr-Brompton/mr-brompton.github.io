@@ -24,6 +24,7 @@
   margin: 0px 2% 80px 2%;
   text-align: left;
   width: 100%;
+  white-space: 2%;
 }
 
 .contentSuggestL img {
@@ -31,11 +32,13 @@
   height: 25%;
   float: left;
   margin-left: 3%;
+  white-space: 2%;
 }
 .contentSuggestL #text {
 	float: left;
 	width: 50%;
 	margin-left: 3%;
+	white-space: 2%;
 }
 
 .contentSuggestR {
@@ -43,17 +46,20 @@
   margin: 0px 2% 80px 2%;
   text-align: right;
   width: 100%;
+  white-space: 2%;
 }
 
 .contentSuggestR img {
    height: 25%;
   float: right;
   margin-right: 3%;
+  white-space: 2%;
 }
 .contentSuggestR #text {
 	float: right;
 	width: 50%;
 	margin-right: 3%;
+	white-space: 2%;
 }
 
 
