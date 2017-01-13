@@ -1,0 +1,13 @@
+	/*pageSuggest styling*/
+	
+.pageSuggest {
+  display: inline-block;
+  margin: 0px 2% 80px 2%;
+  text-align: center;
+  width: 45%;
+}
+
+.pageSuggest img {
+  width: 300px;
+  height: 300px;
+}
