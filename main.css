@@ -30,9 +30,10 @@
   width: 350px;
   height: 350px;
   float: left;
+  margin-left: 10%;
 }
 .content #text {
-	float: right;
+	float: left;
 	width: 500px;
 }
 
