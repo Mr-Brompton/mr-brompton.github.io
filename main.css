@@ -1,15 +1,9 @@
-
-
 	/*Content Styling */
+
+
+
+
 	
-.blue {
-  color: #14213D; 
-}
-
-
-
-
-
 	/*Page Formatting p, a, and h's*/
 .container {
 	width: 96%;
@@ -69,8 +63,6 @@ a {
 }
 
 	/*coverImage*/
-
-	/*coverImage*/
 .cover-content {
   box-sizing: border-box;
   margin: 0 auto;
@@ -101,7 +93,6 @@ a {
 	-webkit-transition: background-image 0.2s ease-in-out;
 	transition: background-image 0.2s ease-in-out;
 }
-/*Version 1 */
 
 	/*background*/
 
