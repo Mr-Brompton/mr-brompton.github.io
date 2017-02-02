@@ -1,0 +1,50 @@
+.text {
+	padding: 25px;
+}
+
+.posts {
+  background: #EEEFF1;
+  box-sizing: border-box;
+  width: 90%;
+  margin: 10px auto;
+  padding: 25px;
+  text-align: center;
+}
+
+.posts img {
+  float: left;
+  width: 350px;
+  height: 350px;
+  overflow: auto;
+  padding: 40px 25px;
+ }
+
+.products .btn:hover {
+	color: black;
+	box-shadow: 1px 1px 3px black;
+}
+
+
+.btn1 {
+  border-radius: 5%;
+  background-image: -webkit-linear-gradient(#000, #666);
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  width: 30%;
+  display: inline-block;
+  
+ }
+a .btn1 {
+	color: #FFF;
+}
+
+.btn1:hover {
+	color: black;
+	box-shadow: 1px 1px 3px black;
+}
+.btn1 a:hover {
+	color: black;
+	box-shadow: 1px 1px 3px black;
+}
