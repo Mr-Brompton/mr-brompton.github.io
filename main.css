@@ -1,6 +1,55 @@
 	/*Content Styling */
+.content{
+	background-color: rgba(200, 200, 200, 0.9);
+	width: 75%;
+	display: inline-block;
+	text-align: center;	
+	overflow: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.content p {
+	text-align: left;
+	border-left: 50px;
+}
 
+.content .containerLeft {
+	overflow: auto;
+}
 
+.content .containerRight {
+	overflow: auto;
+	padding-left: 25px;
+}
+
+.content .containerLeft:hover {
+	overflow: auto;
+	background-color: rgba(200, 200, 200, 0.9);
+	
+}
+
+.content .containerRight:hover {
+	overflow: auto;
+	background-color: rgba(200, 200, 200, 0.9);
+}
+
+.content .containerLeft img {
+	width: 250px;
+	height: 250px;
+	border-radius: 100%;
+	float: left;
+	padding: 25px;
+
+}
+
+.content .containerRight img {
+	width: 250px;
+	height: 250px;
+	border-radius: 100%;
+	float: right;
+	padding: 25px;
+	
+}
 
 
 	
@@ -38,7 +87,7 @@ h3 {
 }
 
 h4 {
-  color: #FCA311;
+  color: #14213D;
   font-family: 'Abel', sans-serif;
   font-size: 24px;
   margin: 0px 0px 50px 0px;
@@ -101,6 +150,7 @@ body {
   margin: 0;
   padding: 0;
   width: 100%;
+  text-align: center;
   }
 
 	/*navbar*/
