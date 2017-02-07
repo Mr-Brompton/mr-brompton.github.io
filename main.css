@@ -1,4 +1,7 @@
 	/*Content Styling */
+strong {
+	font-weight: bold;
+}
 .content{
 	background-color: rgba(200, 200, 200, 0.9);
 	width: 75%;
