@@ -34,12 +34,13 @@
   text-align: center;
 }
 
-.posts img {
+.content img {
   float: left;
   width: 350px;
   height: 350px;
   overflow: auto;
   padding: 40px 25px;
+  border-radius: 100%;
  }
 
 .products .btn:hover {
