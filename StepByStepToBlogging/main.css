@@ -34,12 +34,12 @@
   text-align: center;
 }
 
-.content img {
+.content #blogimg {
   float: left;
   width: 350px;
   height: 350px;
   overflow: auto;
-  padding: 40px 25px;
+  padding: 0px 25px 20px 25px;
   border-radius: 100%;
  }
 
