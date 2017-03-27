@@ -10,7 +10,7 @@ function setUpGame() {
 	var gameCanvas = document.getElementById("gameCanvas");
 	rocketImage = new Image();
 	astImage = new Image();
-	astImage.src = "img/ast.png";
+	astImage.src = "img/Ast.png";
 	rocketImage.src = "img/rocket.png";
 	
 	gameCanvas.getContext("2d").drawImage(rocketImage, Math.random() * 100, Math.random() * 100);
