@@ -6,3 +6,4 @@
         app.js
     /img/
         rocket.png
+		bg.jpg
