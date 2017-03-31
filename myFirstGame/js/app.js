@@ -52,7 +52,9 @@ function onTick() {
 	currentAstNumber = 0;
 	while (currentAstNumber < numberOfEnemies) {
 		if ( ( (rocketX < astXPositions[currentAstNumber] && astXPositions[currentAstNumber] < rocketX + 17) || (astXPositions[currentAstNumber] < rocketX && rocketX < astXPositions[currentAstNumber] + 17) ) && ( (rocketY < astYPositions[currentAstNumber] && astYPositions[currentAstNumber] < rocketY + 17) || (astYPositions[currentAstNumber] < rocketY && rocketY < astYPositions[currentAstNumber] + 17) ) ) {
-			alert("You were destroyed by an asteroid!" + " you scored = " + score );
+			if (alert("You were destroyed by an asteroid!" + " you scored = " + score )){}
+			else {window.location.reload(); };
+			
 		}
 		currentAstNumber = currentAstNumber + 1;
 	}	
