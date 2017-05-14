@@ -1,0 +1,29 @@
+.container {
+	width: 80%;
+	margin-left: 10%;
+}
+.topics {
+	
+}
+#topic {
+	
+}
+.posts {
+	text-align: center;
+	width: 20%;
+	border-left: 1em solid #666;
+	display: inline-block;
+	margin-left: 1em;
+}
+.posts:hover {
+	border-left: 1em solid darkOrange;
+}
+#postTitle {
+	
+}
+#imgpreview {
+	width: 90%;
+}
+.blogIntro {
+	
+}

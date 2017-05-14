@@ -1,0 +1,31 @@
+/*aboutMe*/
+.me {
+	width: 30pc;
+	margin-left: 35%;
+	margin-bottom: 6em;
+}
+
+.me #me {
+	height: 20pc;
+	border-radius: 15%;
+	float: left;
+	border-left: 1em solid white;
+	border-right: 1em solid white;
+}
+
+.me button {
+	background: none;
+	border: none;
+	font-size: 2em;
+	color: #666;
+	font-family: 'Rakkas', cursive;
+}
+
+.me button:hover {
+	color: darkOrange
+}
+
+.me p {
+	padding-left: 50px;
+	display: none;
+}

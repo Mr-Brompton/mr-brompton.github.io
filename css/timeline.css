@@ -1,0 +1,18 @@
+/*Timeline*/
+
+.timeline {
+	width: 50%;
+	text-align: center;
+	margin-top: 20em;
+	margin-left: 25%;
+	border-left: 5px solid #666;
+}
+
+.timeline p {
+	text-align: left;
+	margin-left: 0.5em;
+}
+.timeline h4 {
+	text-align: left;
+	margin-left: 0.5em;
+}
