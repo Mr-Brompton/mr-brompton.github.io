@@ -22,6 +22,18 @@
 	margin-left: 10%;
 }
 
+#feature1 {
+	border-radius: 2px;
+	box-shadow: 1px 2px 2px #666;
+	width: 40%;
+	margin-left: 30%;
+}
+
+.quote {
+	text-align: center;
+	font-style: italic;
+}
+
 .content{
 	font-family: 'Raleway', sans-serif;
 	text-align: justify;
