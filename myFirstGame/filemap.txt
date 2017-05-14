@@ -1,9 +1,0 @@
-/AvoiderGame/
-    index.html
-    /css/
-        style.css
-    /js/
-        app.js
-    /img/
-        rocket.png
-		bg.jpg
