@@ -6,7 +6,7 @@
 }
 
 .me #me {
-	height: 20pc;
+	width: 50%;
 	border-radius: 15%;
 	float: left;
 	border-left: 1em solid white;

@@ -29,12 +29,12 @@ nav {
 }
 nav a {
 	font-family: 'Rakkas', cursive;
-	font-size: 3em;
+	font-size: 2em;
 	color: #666;
 }
 
 nav .main {
-	font-size: 2em;
+	font-size: 2.5em;
 	color: orange;
 	padding-left: 2em;
 	padding-right: 2em;
