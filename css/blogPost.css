@@ -22,6 +22,13 @@
 	margin-left: 10%;
 }
 
+#feature1 {
+	border-radius: 2px;
+	box-shadow: 1px 2px 2px #666;
+	width: 50%;
+	margin-left: 25%;
+}
+
 .content{
 	font-family: 'Raleway', sans-serif;
 	text-align: justify;
