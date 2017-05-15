@@ -16,7 +16,7 @@
 .me button {
 	background: none;
 	border: none;
-	font-size: 2em;
+	font-size: 3em;
 	color: #666;
 	font-family: 'Rakkas', cursive;
 }
@@ -28,4 +28,5 @@
 .me p {
 	padding-left: 50px;
 	display: none;
+	font-size: 2em;
 }
