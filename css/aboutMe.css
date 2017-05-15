@@ -1,20 +1,20 @@
 /*aboutMe*/
 .me {
-	width: 60%;
+	width: 30pc;
+	margin-left: 35%;
 	margin-bottom: 6em;
 }
 
 .me #me {
-	width: 20%;
+	height: 20pc;
 	border-radius: 15%;
-	display: block;
+	float: left;
 	border-left: 1em solid white;
 	border-right: 1em solid white;
 }
 
 .me button {
 	background: none;
-	display: block;
 	border: none;
 	font-size: 2em;
 	color: #666;
@@ -26,5 +26,6 @@
 }
 
 .me p {
+	padding-left: 50px;
 	display: none;
 }
