@@ -10,17 +10,12 @@
 #imgME{
 	height: 20pc;
 	width: 15pc;	
-	background: url("../img/Me.jpg") no-repeat top center;
+	background: url("../img/Another-Blog-Blog-Logo.gif") no-repeat top center;
 	background-size: 100%;
 	border-radius: 5%;
 	float: left;
 	border-left: 1em solid white;
 	border-right: 1em solid white;
-}
-
-#imgME:hover {
-	background: url("../img/Me2.jpg") no-repeat top center;
-	background-size: 100%;
 }
 
 .me button {
