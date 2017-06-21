@@ -1,4 +1,9 @@
 /*GLOBAL*/
+iframe {
+	float: right;
+	padding-top: 25%;
+}
+
 a {
 	text-decoration: none;
 	color: #666;
