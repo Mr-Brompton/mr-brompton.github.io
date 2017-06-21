@@ -1,9 +1,10 @@
 /*GLOBAL*/
-.ad {
+aside .ad {
 	position: fixed;
 	right: 0;
 	top: 25%;
 	width: 122px;
+	background-color: #ddd;
 }
 
 a {
