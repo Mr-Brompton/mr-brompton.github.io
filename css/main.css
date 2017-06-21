@@ -1,7 +1,8 @@
 /*GLOBAL*/
 iframe {
-	float: right;
-	padding-top: 25%;
+	position: fixed;
+	right: 0;
+	top: 25%;
 }
 
 a {
