@@ -1,5 +1,5 @@
 /*GLOBAL*/
-iframe #ad {
+iframe .ad {
 	position: fixed;
 	right: 0;
 	top: 25%;
