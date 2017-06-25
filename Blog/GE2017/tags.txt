@@ -1,8 +1,0 @@
-<h2 class="title"></h2>
-<p class="intro"></p>
-<img id="feature1" src="" />
-<p class="content"></p>
-<p class="quote"></p>
-<img id="contentPic" src="" />
-<a href="..." id="blogLink" target="blank">
-<!--<img id="contentPic" src="../../img/Fifty_Pence.JPG" />-->
