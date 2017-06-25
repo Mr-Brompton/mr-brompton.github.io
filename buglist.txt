@@ -1,0 +1,20 @@
+Buglist:
+
+Place		Bug						Fix
+
+Global		Footer not extending to bottom
+		Anchor # (aboutme) 404 in chrome		switch #link to p elements??
+		FB footer link in same window			add target _blank	
+		Some support links not working			Change Navlink project.html>> support
+
+img source	footer too high/not extending to bottom		add min-height to article
+
+
+web source	404						Not yet built
+
+work.html	404						Not yet built
+
+ad with us	404						Not yet built
+
+all Blogs	A# link not working				switch #link to p elements
+
