@@ -10,7 +10,7 @@
 #imgME{
 	height: 20pc;
 	width: 15pc;	
-	background: url("../img/mainImg/me.jpg") no-repeat top center;
+	background: url("img/mainImg/me.jpg") no-repeat top center;
 	background-size: 100%;
 	border-radius: 5%;
 	float: left;
