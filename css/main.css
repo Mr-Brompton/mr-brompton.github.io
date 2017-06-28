@@ -4,6 +4,12 @@ Author: Mr. Brompton
 */
 
 /*GLOBAL*/
+#ad {
+	position: fixed;
+	right: 0;
+	top: 25%;
+}
+
 a {
 	text-decoration: none;
 	color: #666;
