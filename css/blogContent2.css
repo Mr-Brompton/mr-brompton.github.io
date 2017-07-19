@@ -7,7 +7,7 @@ Author: Mr. Brompton
 	background-color: #eee;
 }
 
-#contentDisplay {
+.contentDisplay {
 	width: device-width;
 	text-align: center;
 }
@@ -34,6 +34,6 @@ Author: Mr. Brompton
 	border-left: 10px solid darkOrange;
 }
 
-h2 #catTitle {
+h2 .catTitle {
 	text-decoration: center;
 }
