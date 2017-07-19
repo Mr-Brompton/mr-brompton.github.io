@@ -16,7 +16,8 @@ Author: Mr. Brompton
   border-right: .15em solid orange; 
   white-space: nowrap; 
   margin: 0 auto;
-  margin-top: 40%;  
+  margin-top: 40%;
+  margin-bottom: 35%;
   letter-spacing: .15em; 
   animation: 
     typing 3.5s steps(30, end),
