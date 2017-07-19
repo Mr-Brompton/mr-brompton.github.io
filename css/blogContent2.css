@@ -3,7 +3,7 @@ Title: Blog Content Display
 Author: Mr. Brompton 
 */
 
-#contentWrapper {
+.contentWrapper {
 	background-color: #eee;
 }
 

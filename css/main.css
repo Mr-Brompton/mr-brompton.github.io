@@ -96,7 +96,7 @@ footer table tr td {
 	font-family: Courier;
 }
 
-footer thead {
+footer td .head {
 	color: darkOrange;
 	font-weight: bold;
 }
