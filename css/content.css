@@ -35,13 +35,13 @@ Author: Mr. Brompton
 	margin-left: 25%;
 }
 
-#blogLink {
+.blogLink {
 	color: darkOrange;
 	text-decoration: none;
 	text-shadow: 5px 5px 5px rgba(200, 200, 200, 0.7);
 }
 
-#blogLink:hover, #blogLink:active, #blogLink:focus {
+.blogLink:hover, .blogLink:active, .blogLink:focus {
 	color: #666;
 }
 

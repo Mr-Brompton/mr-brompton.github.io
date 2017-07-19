@@ -96,7 +96,7 @@ footer table tr td {
 	font-family: Courier;
 }
 
-footer td .head {
+footer table tbody td .head {
 	color: darkOrange;
 	font-weight: bold;
 }
@@ -114,4 +114,9 @@ footer a:hover, footer a:active, footer a:focus {
 }
 .topics a:hover, .topics a:active, .topics a:focus {
 	color: darkOrange;
+}
+
+.widget {
+	width: 100%;
+	text-align: center;
 }
