@@ -116,7 +116,12 @@ footer a:hover, footer a:active, footer a:focus {
 	color: darkOrange;
 }
 
+/*ads*/
 .widget {
 	width: 100%;
 	text-align: center;
+}
+
+.blogad {
+	
 }
