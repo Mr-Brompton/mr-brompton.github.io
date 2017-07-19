@@ -29,7 +29,7 @@ Author: Mr. Brompton
 	overflow: hidden;
 }
 
-.contentItem:hover .contentItem:active .contentItem:focus {
+.contentItem:hover, .contentItem:active, .contentItem:focus {
 	background-color: #eee;
 	border-left: 10px solid darkOrange;
 }
