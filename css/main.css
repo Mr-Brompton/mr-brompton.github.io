@@ -43,7 +43,7 @@ nav a {
 	font-size: 1.5em;
 	color: #666;
 }
-nav a:hover {
+nav a:hover a:active a:focus{
 	color: darkOrange;
 	text-shadow: 1px 1px 1px black;
 }
@@ -64,7 +64,7 @@ nav #navMain {
 	padding: 1em;
 }
 
-.fa-hand-o-down:hover {
+.fa-hand-o-down:hover .fa-hand-o-down:hover .fa-hand-o-down:focus{
 	color: black;
 }
 
@@ -101,7 +101,7 @@ footer thead {
 	font-weight: bold;
 }
 
-footer a:hover{
+footer a:hover a:active a:focus {
 	text-decoration: underline;
 }
 
@@ -112,6 +112,6 @@ footer a:hover{
 	text-align: center;
 	font-size: 1.5em;
 }
-.topics a:hover {
+.topics a:hover a:active a:focus {
 	color: darkOrange;
 }

@@ -26,7 +26,7 @@
 	font-family: 'Rakkas', cursive;
 }
 
-.me button:hover {
+.me button:hover button:active button:focus{
 	color: darkOrange
 }
 
