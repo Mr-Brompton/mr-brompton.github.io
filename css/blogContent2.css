@@ -36,4 +36,5 @@ Author: Mr. Brompton
 
 h2 .catTitle {
 	text-decoration: center;
+	overflow: hidden;
 }
