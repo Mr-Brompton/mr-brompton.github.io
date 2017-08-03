@@ -3,6 +3,13 @@ Title: ABB clean main
 Author: Mr. Brompton 
 */
 
+/*mobile*/
+@media only screen and (max-width: 768px){
+	.navLink {
+		display: none;
+	}
+}
+
 /*GLOBAL*/
 #ad {
 	position: fixed;
