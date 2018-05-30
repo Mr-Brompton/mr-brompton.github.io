@@ -38,7 +38,19 @@ nav .navBar .navButton {
 .contentContainer {
 	height: 25em;
 	width: 100%;
-	
+	padding: 2em;
+	padding-bottom: 0;
+	text-align: center;
+}
+
+.contentContainer h2 {
+	font-family: sans-serif;
+}
+.contentContainer p {
+	font-family: sans;
+}
+.contentContainer img {
+	height: 25em;
 }
 
 
