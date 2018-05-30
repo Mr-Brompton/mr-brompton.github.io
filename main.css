@@ -64,7 +64,7 @@ footer {
     position: static; }
 
   header {
-    padding-top: 40px; } }
+    padding-top: 40; } }
 .footerSocial {
   background-color: #808080;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -73,7 +73,7 @@ footer {
   text-align: left;
   font: normal 16px sans-serif;
   padding: 45px 50px;
-  margin-top: 80px; }
+  margin-top: 5em; }
 
 .footerSocial .footer-left p {
   color: #cccccc;
