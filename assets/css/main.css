@@ -9,9 +9,16 @@ body a {
 body a:hover{
 	color: darkOrange;
 }
+body {
+	max-width: 100%;
+	margin-right: 0;
+	padding: 0;
+	white-space: 0;
+}
 
 nav {
 	width: 100%;
+	max-width: 100%;
     font-family: 'Oswald', sans-serif;
  	font-weight: 600px;
 	border-bottom: 1px solid #5b5b5b;
@@ -36,12 +43,14 @@ nav .navBar .navButton {
 	padding-left: 5em;
 	padding-right: 5em;
 }
+
 /*Content*/
 .contentContainer {
 	min-height: 25em;
-	width: 100%;
+	width: 90%;
+	max-width: 100%;
 	padding: 2em;
-	padding-bottom: 0;
+	padding-bottom: 10px;
 	text-align: center;
 }
 
@@ -49,6 +58,7 @@ nav .navBar .navButton {
 /*articles*/
 article {
 	width: 50%;
+	max-width: 100%;
 	text-align: justify;
     margin-left:25%;
 }
@@ -75,8 +85,10 @@ article p, ul, li {
     position: relative;
     overflow: hidden;
     padding-top: 50%;
+	max-width: 100%;
 }
 .vid-iframe {
+	max-width: 100%;
     position: absolute;
     top: 0;
     left: 0;
@@ -87,8 +99,12 @@ article p, ul, li {
 
 /*footer*/
 footer {
+	max-width: 100%;
   position: fixed;
-  bottom: 0; }
+  bottom: 0;
+	margin-right: 0;
+	white-space: 0;
+  }
 
 @media (max-height: 800px) {
   footer {
@@ -105,6 +121,8 @@ footer {
   font: normal 16px;
   font-family: 'Archivo Narrow', sans-serif;
   padding: 45px 50px;
+  margin-right: 0;
+  white-space: 0%	;
   margin-top: 5em; }
 
 .footerSocial .footer-left p {
@@ -131,7 +149,11 @@ footer {
 .footerSocial .footer-right {
   float: right;
   margin-top: 6px;
-  max-width: 180px; }
+  max-width: 180px; 
+  margin-right: 0;
+  padding-right: 0;
+  white-space: 0;
+  }
 
 .footerSocial .footer-right a {
   display: inline-block;
