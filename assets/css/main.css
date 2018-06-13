@@ -72,10 +72,10 @@ article{
 article h1 {
 	font-family: 'Kreon', serif;    
 }
-article h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
 	font-family: 'Ubuntu', sans-serif;
 }
-article p, ul, li {
+p, ul, li {
 	font-family: 'Ubuntu', sans-serif;
 	list-style: none;
 }
@@ -153,7 +153,7 @@ footer {
   margin-right: 0;
   padding-right: 0;
   white-space: 0;
-  }
+}
 
 .footerSocial .footer-right a {
   display: inline-block;
@@ -166,6 +166,32 @@ footer {
   text-align: center;
   line-height: 35px;
   margin-left: 3px; }
+
 .footerSocial .footer-right a:hover {
 	color: #5b5b5b;
+}
+
+/*modules*/
+.vid-content {
+	height: 35%;
+	min-width: 100%;
+	padding: 0%;
+	padding-top: 5%;
+}
+
+.vid-content .video-left {
+	width: 50%;
+	float: left;
+}
+.vid-content .content-right {
+	width: 45%;
+	float: right;
+	text-align: left;
+	padding: 2.5%;
+	font-size: 1.25em;
+}
+
+.vid-content .content-right h2 {
+	padding: 0;
+	margin: 0;
 }
