@@ -51,16 +51,15 @@ nav .navBar .navButton {
 	max-width: 100%;
 	padding: 2em;
 	padding-bottom: 10px;
-	text-align: center;
 }
 
 
 /*articles*/
 article {
-	width: 50%;
+	width: 70%;
 	max-width: 100%;
 	text-align: justify;
-    margin-left:25%;
+    margin-left:15%;
 }
 @media only screen and (max-width: 814px){
 article{
