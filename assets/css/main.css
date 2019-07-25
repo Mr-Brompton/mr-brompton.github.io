@@ -304,7 +304,19 @@
 			padding-left: 5em;
 			padding-right: 5em;
 		}
-
+		.sub-nav {
+			width: 100%;
+			max-width: 100%;
+			font-family: 'Oswald', sans-serif;
+			font-weight: 600px;
+			border-bottom: 1px solid #5b5b5b;
+			position: fixed;
+			background-color: rgba(244, 244, 244, 0.5);
+			padding: 0.25em;
+			margin-top: 0.15em;
+			font-size: 1.5em;
+			z-index: 999;
+		}
 	/*Content*/
 		.contentContainer {
 			min-height: 25em;
@@ -648,4 +660,61 @@ footer {
 }
 #CyberSecurity {
 	height: 50vh;//remove after building section
+}
+hr {
+	width: 100vw;
+	padding: 3em;
+}
+
+#portfolio.portfolio {
+	width: 100vw;
+	height: auto;
+	text-align: center;
+}
+
+#portfolio.portfolio .header-div {
+	width:100vw;
+
+
+}
+#portfolio.portfolio .portfolio-card {
+	width: 90vw;
+	height: 45vh;
+	display: inline-block;
+	margin: 0;
+	margin: 0;
+	margin-top: 1em;
+	white-space: 0;
+	border: 0;
+	padding: 0;
+}
+#portfolio.portfolio .portfolio-card:hover {
+	box-shadow: 3px 1px 3px rgba(0,0,0,0.5);
+}
+#portfolio.portfolio .portfolio-card-text {
+	height: 100%;
+	width: 55%;
+  float: left;
+	text-align: left;
+	margin: 5%;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+#portfolio.portfolio .portfolio-card-image {
+	height: 100%;
+	width: 35%;
+	float: left;
+	box-shadow: 3px 0px 3px rgba(0,0,0,0.5);
+}
+#portfolio.portfolio .portfolio-card-image img {
+	width: 100%;
+	height: 100%;
+}
+
+#portfolio.portfolio .portfolio-card-text h2 {
+	padding: 3%;
+}
+#portfolio.portfolio .portfolio-card-text p {
+	padding: 1.5%;
 }

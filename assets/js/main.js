@@ -5,7 +5,7 @@ var quotes = [
 "\"The computer is a moron\" </br> - Peter Drucker",
 "\"Cryptocurrencies: Everything you don't understand about money combined with everything you don't understand about computers\"</br> - John Oliver",
 "This aptitude does not have super cow powers",
-"Things have changed in the past two years\" </br>- Bill  Gates"
+"\"Things have changed in the past two years\" </br>- Bill  Gates"
 ];
 var quote = quotes[randomInt(quotes.length)];
 function randomInt(maxInt) {
