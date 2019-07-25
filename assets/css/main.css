@@ -718,3 +718,6 @@ hr {
 #portfolio.portfolio .portfolio-card-text p {
 	padding: 1.5%;
 }
+.center {
+	width: 100vw;
+}
