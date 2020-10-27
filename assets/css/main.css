@@ -320,10 +320,10 @@
 	/*Content*/
 		.contentContainer {
 			min-height: 25em;
-			width: 90%;
-			max-width: 100%;
+			width: 100%;
+			/*max-width: 100%;*/
 			padding: 0;
-			padding-bottom: 10px;
+			padding-bottom: 0px;
 		}
 
 
