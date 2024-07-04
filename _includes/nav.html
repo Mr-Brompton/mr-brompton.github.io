@@ -1,7 +1,7 @@
 <nav class="mask">
-  <a href="{{ site.url }}">Mr.Brompton</a>
+  <a href="{{ site.url }}" {% if page.url == "/" %}style="color: DarkOrange;"{% endif %}>Mr.Brompton</a>
   <ul class="list">
-    <li><a href="{{ site.url }}/about.html#about">About</a></li>
+    <li><a href="{{ site.url }}/about.html#about" {% if page.url == "/about.html" %}style="color: DarkOrange;"{% endif %}>About</a></li>
    <!-- <li><a href="#">Projects</a></li>
     <li><a href="#">News</a></li>
     <li><a href="#">Contact</a></li>-->
