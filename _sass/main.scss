@@ -1,3 +1,10 @@
+.align-right {
+    text-align: right;
+}
+
+.current {
+  color: darkOrange;
+}
 * {
   box-sizing: border-box;
 }
@@ -70,10 +77,11 @@ a {
 img {
   width: 100%;
   max-height: 100vh;
-  object-fit: cover;
+  object-fit: contain;
   display: inline-block;
   z-index: -5;
 }
 .text {
-    margin: 10em;
+    margin-left: 10em;
+    margin-right: 10em;
 }

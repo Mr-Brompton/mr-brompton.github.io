@@ -1,2 +1,5 @@
-- name: Read About MrB
-  link: /about.html#about
+- name: Mr.Brompton
+  link: /
+  
+- name: Read About Me
+  link: /about.html

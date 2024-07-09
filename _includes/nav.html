@@ -1,9 +1,7 @@
 <nav class="mask">
-    
-  <a href="{{ site.url }}" {% if page.url == "/" %}style="color: DarkOrange;"{% endif %}>Mr.Brompton</a>
   <ul class="list">
     {% for item in site.data.navbar %}
-      <li><a href="{{ site.url }}{{ item.link }}" {% if page.url == "/about.html" %}style="color: DarkOrange;"{% endif %}>{{ item.name }}</a></li>
+      <li><a href="{{ item.link }}" class="{% if page.url == item.link %}current {% endif %}">{{ item.name }}</a></li>
     {% endfor %}
-  </ul>
+    </ul>
 </nav>
