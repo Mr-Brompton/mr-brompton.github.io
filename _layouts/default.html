@@ -6,8 +6,10 @@
       <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
     </head>
   <body>
-    {% if page.url == "/" %}<img src="{{ site.url }}/assets/img/OIG2.jpeg" class="logo" alt="Mr Brompton's Logo, a black background with white techy things surrounding a hat, sunglasses and tie">{% endif %}
     {% include nav.html %}
+    {% if page.url == "/" %}
+      <img src="{{ site.url }}/assets/img/OIG2.jpeg" class="logo" alt="Mr Brompton's Logo, a black background with white techy things surrounding a hat, sunglasses and tie">
+    {% endif %}
       <div class="text">
         <br><br><br>
       {{ content }}
