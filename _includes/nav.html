@@ -1,7 +1,7 @@
 <nav class="mask">
-  <ul class="list">
+  <ul class="navList">
     {% for item in site.data.navbar %}
-      <li><a href="{{ item.link }}" class="{% if page.url == item.link %}current {% endif %}">{{ item.name }}</a></li>
+      <li><a href="{{ item.link }}" class="{% if page.url == item.link %}current {% endif %}nav">{{ item.name }}</a></li>
     {% endfor %}
     </ul>
 </nav>
