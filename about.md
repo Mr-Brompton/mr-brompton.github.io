@@ -1,9 +1,7 @@
 ---
-layout: about
+layout: default
 title: Mr.Brompton
 ---
-
-{% include nav.html %}
 
 # Hello there,
 

@@ -3,3 +3,6 @@
   
 - name: Read About Me
   link: /about.html
+  
+- name: Blog
+  link: /blog.html
