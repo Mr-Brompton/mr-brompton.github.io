@@ -12,6 +12,7 @@ nav {
     text-shadow: 0 0 5px rgba(0,0,0,0.5);
     color: whitesmoke;
     font-size: 16px;
+    z-index: 1;
     &.mask {
       top: 0;
       mask-image: linear-gradient(black 70%, transparent);
