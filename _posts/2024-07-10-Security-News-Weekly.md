@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Mr-Brompton
+img: /assets/img/Cyber-update.jpg
 ---
 
 ## Security News Update {{ page.date | date_to_string }}

@@ -8,7 +8,7 @@ title: Blog
 {% for post in site.posts %}
   <div class="blog-card">
     <div class="meta">
-      <a href="{{ post.url }}"><div class="photo" style="background-image: url({{ site.url }}/assets/img/Cyber-update.jpg)"></div></a>
+      <a href="{{ post.url }}"><div class="photo" style="background-image: url({{ site.url }}{{post.img}})"></div></a>
       <!--        <ul class="details">
           <li class="author"><a href="#">Jane Doe</a></li>
           <li class="date">July. 15, 2015</li>

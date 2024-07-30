@@ -25,3 +25,11 @@ a {
   text-decoration: none;
   color: darken($color: Orange, $amount: 25);
 }
+code {
+  background-color: darken($color: grey, $amount: 25);
+  max-width: 50%;
+}
+.content {
+  padding-left: 15%;
+  padding-right: 15%;
+}
