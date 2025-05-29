@@ -22,41 +22,41 @@ Please enjoy this further reading, there are some interesting stories in here.
 
 ### The Links
 
-**XKCD**
+XKCD
 https://xkcd.com/1838/
 
 
 
 ### **Resources! OWASP**
-**OWASP AI Security and Privacy Guide**
+OWASP AI Security and Privacy Guide
 [https://owasp.org/www-project-ai-security-and-privacy-guide/](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 
-**genai security project**
+genai security project
 [https://genai.owasp.org/](https://genai.owasp.org/)
 
-**ai exchange**
+ai exchange
 [https://owaspai.org/](https://owaspai.org/)
 
-**LLM top 10**
+LLM top 10
 [https://owasp.org/www-project-top-10-for-large-language-model-applications/](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 
 
 ### **Resources! Others**
 
-**AI Security Institute**
+AI Security Institute
 [https://www.aisi.gov.uk/](https://www.aisi.gov.uk/)
 
-**NCSC secure systems development**
+NCSC secure systems development
 [https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development)
 
-**NIST risk management framework**
+NIST risk management framework
 [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
-**LLM Backdoors - BadSeek;**
+LLM Backdoors - BadSeek;
 [https://blog.sshh.io/p/how-to-backdoor-large-language-models](https://blog.sshh.io/p/how-to-backdoor-large-language-models)
 
-**Fake and outdated dependencies / Technical Debt**
+Fake and outdated dependencies / Technical Debt
 [https://remotelyintelligent.medium.com/the-hidden-technical-debt-in-large-language-model-llm-systems-0581e347dbc6](https://remotelyintelligent.medium.com/the-hidden-technical-debt-in-large-language-model-llm-systems-0581e347dbc6)
 
 [https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
@@ -64,7 +64,7 @@ https://xkcd.com/1838/
 [https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/](ttps://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/)
 
 
-**Slop-Squatting**
+Slop-Squatting
 [https://www.csoonline.com/article/3961304/ai-hallucinations-lead-to-new-cyber-threat-slopsquatting.html](https://www.csoonline.com/article/3961304/ai-hallucinations-lead-to-new-cyber-threat-slopsquatting.html)
 
 [https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/](https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/)
@@ -74,25 +74,25 @@ https://xkcd.com/1838/
 [https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
 
 
-**Mcdonalds / IBM 260 Chicken Mcnuggets**
+Mcdonalds / IBM 260 Chicken Mcnuggets
 [https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/](https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/)
 
-**Microsoft Tay's Racist Tweets**
+Microsoft Tay's Racist Tweets
 [https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation](https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation)
 
-**Dumbing Down**
+Dumbing Down
 [https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 
 [https://www.dw.com/en/is-ai-making-us-dumb/video-71598317](https://www.dw.com/en/is-ai-making-us-dumb/video-71598317)
 
-**Manipulation**
+Manipulation
 [https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death](https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death)
 
 [https://arxiv.org/abs/2502.07663](https://arxiv.org/abs/2502.07663)
 
 [https://link.springer.com/article/10.1007/s11245-023-09940-3](https://link.springer.com/article/10.1007/s11245-023-09940-3)
 
-**Data security and Exfiltration**
+Data security and Exfiltration
 [https://www.trendmicro.com/vinfo/gb/security/news/threat-landscape/unveiling-ai-agent-vulnerabilities-part-iii-data-exfiltration](https://www.trendmicro.com/vinfo/gb/security/news/threat-landscape/unveiling-ai-agent-vulnerabilities-part-iii-data-exfiltration)
 
 
