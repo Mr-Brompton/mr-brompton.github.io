@@ -50,36 +50,36 @@ https://xkcd.com/1838/
 [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
 **LLM Backdoors - BadSeek;**
-[https://blog.sshh.io/p/how-to-backdoor-large-language-models](https://blog.sshh.io/p/how-to-backdoor-large-language-models "https://blog.sshh.io/p/how-to-backdoor-large-language-models")
+[https://blog.sshh.io/p/how-to-backdoor-large-language-models](https://blog.sshh.io/p/how-to-backdoor-large-language-models)
 
 **Fake and outdated dependencies / Technical Debt**
-https://remotelyintelligent.medium.com/the-hidden-technical-debt-in-large-language-model-llm-systems-0581e347dbc6
-https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/
-https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/
+[https://remotelyintelligent.medium.com/the-hidden-technical-debt-in-large-language-model-llm-systems-0581e347dbc6](https://remotelyintelligent.medium.com/the-hidden-technical-debt-in-large-language-model-llm-systems-0581e347dbc6)
+[https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
+[https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/](ttps://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/)
 
 **Slop-Squatting**
-https://www.csoonline.com/article/3961304/ai-hallucinations-lead-to-new-cyber-threat-slopsquatting.html
-https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/
-https://www.techrepublic.com/article/news-slopsquatting-vibe-coding-ai-cybersecurity-risk/
-https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks
+[https://www.csoonline.com/article/3961304/ai-hallucinations-lead-to-new-cyber-threat-slopsquatting.html](https://www.csoonline.com/article/3961304/ai-hallucinations-lead-to-new-cyber-threat-slopsquatting.html)
+[https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/](https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/)
+[https://www.techrepublic.com/article/news-slopsquatting-vibe-coding-ai-cybersecurity-risk/](https://www.techrepublic.com/article/news-slopsquatting-vibe-coding-ai-cybersecurity-risk/)
+[https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
 
-Mcdonalds / IBM 260 Chicken Mcnuggets
-https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/
+**Mcdonalds / IBM 260 Chicken Mcnuggets**
+[https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/](https://hackread.com/slopsquatting-threat-ai-generated-code-hallucinations/)
 
 **Microsoft Tay's Racist Tweets**
-https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
+[https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation](https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation)
 
 **Dumbing Down**
-https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
-https://www.dw.com/en/is-ai-making-us-dumb/video-71598317
+[https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
+[https://www.dw.com/en/is-ai-making-us-dumb/video-71598317](https://www.dw.com/en/is-ai-making-us-dumb/video-71598317)
 
 **Manipulation**
-https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death
-https://arxiv.org/abs/2502.07663
-https://link.springer.com/article/10.1007/s11245-023-09940-3
+[https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death](https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death)
+[https://arxiv.org/abs/2502.07663](https://arxiv.org/abs/2502.07663)
+[https://link.springer.com/article/10.1007/s11245-023-09940-3](https://link.springer.com/article/10.1007/s11245-023-09940-3)
 
 **Data security and Exfiltration**
-https://www.trendmicro.com/vinfo/gb/security/news/threat-landscape/unveiling-ai-agent-vulnerabilities-part-iii-data-exfiltration
+[https://www.trendmicro.com/vinfo/gb/security/news/threat-landscape/unveiling-ai-agent-vulnerabilities-part-iii-data-exfiltration](https://www.trendmicro.com/vinfo/gb/security/news/threat-landscape/unveiling-ai-agent-vulnerabilities-part-iii-data-exfiltration)
 
 
 
