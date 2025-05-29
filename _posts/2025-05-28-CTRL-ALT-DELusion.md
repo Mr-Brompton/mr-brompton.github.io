@@ -4,7 +4,7 @@ author: Mr-Brompton
 img: /assets/img/AI-Talks.png
 ---
 
-## The pitfalls of programming with AI and how to (Mostly) Avoid them
+## AI Development Disasters and how to (Mostly) Avoid them
 
 ### Preamble. 
 
